@@ -73,16 +73,25 @@ Ackerman_robot/
 
 ## How to Run
 
-Terminal 1: Launch simulation:
+### 1. Launch Simulation
 
-cd ~/Ackerman_robot && source install/setup.bash 
+```bash
+cd ~/Ackerman_robot
+source install/setup.bash
 ros2 launch my_robot_bringup gazebo.launch.py
+```
 
-Terminal 2: Start vision: 
-ros2 run vision_node vision_node 
+### 2. Start Vision Node
 
-Terminal 3: Start control: 
+```bash
+ros2 run vision_node vision_node
+```
+
+### 3. Start Control Node
+
+```bash
 ros2 run vision_node control_node
+```
 ```
 
 ---
