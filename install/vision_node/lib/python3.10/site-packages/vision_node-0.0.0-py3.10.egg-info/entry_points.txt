@@ -1,4 +1,0 @@
-[console_scripts]
-control_node = vision_node.control_node:main
-vision_node = vision_node.vision_node:main
-
