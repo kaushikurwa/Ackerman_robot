@@ -1,0 +1,22 @@
+[1.732s] Invoking command in '/home/kaushik/Ackerman_robot/src/vision_node': PYTHONPATH=/home/kaushik/Ackerman_robot/build/vision_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaushik/Ackerman_robot/install/vision_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision_node build --build-base /home/kaushik/Ackerman_robot/build/vision_node/build install --record /home/kaushik/Ackerman_robot/build/vision_node/install.log --single-version-externally-managed install_data
+[2.244s] running egg_info
+[2.246s] writing ../../build/vision_node/vision_node.egg-info/PKG-INFO
+[2.246s] writing dependency_links to ../../build/vision_node/vision_node.egg-info/dependency_links.txt
+[2.246s] writing entry points to ../../build/vision_node/vision_node.egg-info/entry_points.txt
+[2.247s] writing requirements to ../../build/vision_node/vision_node.egg-info/requires.txt
+[2.247s] writing top-level names to ../../build/vision_node/vision_node.egg-info/top_level.txt
+[2.253s] reading manifest file '../../build/vision_node/vision_node.egg-info/SOURCES.txt'
+[2.254s] writing manifest file '../../build/vision_node/vision_node.egg-info/SOURCES.txt'
+[2.254s] running build
+[2.254s] running build_py
+[2.255s] running install
+[2.255s] running install_lib
+[2.259s] running install_data
+[2.259s] running install_egg_info
+[2.263s] removing '/home/kaushik/Ackerman_robot/install/vision_node/lib/python3.10/site-packages/vision_node-0.0.0-py3.10.egg-info' (and everything under it)
+[2.264s] Copying ../../build/vision_node/vision_node.egg-info to /home/kaushik/Ackerman_robot/install/vision_node/lib/python3.10/site-packages/vision_node-0.0.0-py3.10.egg-info
+[2.268s] running install_scripts
+[2.326s] Installing control_node script to /home/kaushik/Ackerman_robot/install/vision_node/lib/vision_node
+[2.327s] Installing vision_node script to /home/kaushik/Ackerman_robot/install/vision_node/lib/vision_node
+[2.328s] writing list of installed files to '/home/kaushik/Ackerman_robot/build/vision_node/install.log'
+[2.512s] Invoked command in '/home/kaushik/Ackerman_robot/src/vision_node' returned '0': PYTHONPATH=/home/kaushik/Ackerman_robot/build/vision_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaushik/Ackerman_robot/install/vision_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision_node build --build-base /home/kaushik/Ackerman_robot/build/vision_node/build install --record /home/kaushik/Ackerman_robot/build/vision_node/install.log --single-version-externally-managed install_data
