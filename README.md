@@ -73,7 +73,8 @@ Ackerman_robot/
 
 ## How to Run
 
-Terminal 1: Launch simulation: 
+Terminal 1: Launch simulation:
+
 cd ~/Ackerman_robot && source install/setup.bash 
 ros2 launch my_robot_bringup gazebo.launch.py
 
